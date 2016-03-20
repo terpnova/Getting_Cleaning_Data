@@ -9,7 +9,7 @@ The steps involved:
 
 1) Extraxt data from the working directory files
 - assign file names to consolidate
-- 
+
 2) Merge the data sets
 - Organize the data by subject, activity and features
 - Ensure the column lables match
